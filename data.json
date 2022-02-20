@@ -1,0 +1,165 @@
+[
+    {
+        "scene": 1,
+        "teks": "Haaah... Tidak ada namaku.",
+        "image": "scene1.png",
+        "chara": "MC",
+        "animasi": true,
+        "question": false
+    },
+    {
+        "scene": 2,
+        "teks": "B- begitu ya.",
+        "image": "scene2.png",
+        "chara": "Heroine",
+        "animasi": true,
+        "question": false
+    },
+    {
+        "scene": 3,
+        "teks": "Tidak apa-apa kok kalo kamu gak se-univesitas denganku.",
+        "image": "scene2.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 4,
+        "teks": "...",
+        "image": "scene2.png",
+        "chara": "MC",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 5,
+        "teks": "Walau berpisah jauh, kita masih bisa teleponan atau saling kirim pesan.",
+        "image": "scene2.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 6,
+        "teks": "...",
+        "image": "scene2.png",
+        "chara": "MC",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 7,
+        "teks": "Dan kamu pun udah diterima di pilihan keduamu kan?!",
+        "image": "scene2.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 8,
+        "teks": "Oh ya, bagaimana kalo kita belanja bareng buat persiapan kuliah?",
+        "image": "scene2.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 9,
+        "teks": "Oh ya, bagaimana kalo kita belanja bareng buat persiapan kuliah?",
+        "image": "scene2.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": true,
+        "no_question": 1
+    },
+    {
+        "scene": 10,
+        "teks": "Terima kasih!",
+        "image": "scene3.png",
+        "chara": "Heroine",
+        "animasi": true,
+        "question": false
+    },
+    {
+        "scene": 11,
+        "teks": "Eh?!",
+        "image": "scene3.png",
+        "chara": "MC",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 12,
+        "teks": "Kamu udah berjuang belajar agar bisa kuliah bersamaku, kamu mengubah pilihan pertamamu kan? Aku tahu kok kamu ingin jadi seorang penulis.",
+        "image": "scene3.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 13,
+        "teks": "Iya, maaf aku gak memberitahumu",
+        "image": "scene3.png",
+        "chara": "MC",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 14,
+        "teks": "Mulai dari sekarang ayo kita berjuang di jalan masing-masing.",
+        "image": "scene3.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 15,
+        "teks": "Aku tak akan melupakanmu",
+        "image": "scene3.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 16,
+        "teks": "Aku tak akan membencimu karena gak akan bersamaku lagi",
+        "image": "scene3.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {
+        "scene": 17,
+        "teks": "Karena, karena aku akan selalu mencintaimu!",
+        "image": "scene4.png",
+        "chara": "Heroine",
+        "animasi": true,
+        "question": false
+    },
+    {
+        "scene": 18,
+        "teks": "Aku janji akan selalu menunggumu",
+        "image": "scene4.png",
+        "chara": "Heroine",
+        "animasi": false,
+        "question": false
+    },
+    {},
+    {
+        "scene": 19,
+        "teks": "Maaf... Kalo gitu aku pulang dulu",
+        "image": "scene2.png",
+        "chara": "Heroine",
+        "animasi": true,
+        "question": false
+    },
+    {},
+    {
+        "scene": 20,
+        "teks": "Maaf!",
+        "image": "scene2.png",
+        "chara": "Heroine",
+        "animasi": true,
+        "question": false
+    }
+]
